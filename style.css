@@ -1,0 +1,47 @@
+#offcanvasNavbar{
+	margin-top: 2px;
+	border-radius: 30px;
+	background-color: bisque;
+	width:300px;
+	height: 450px;
+}
+.first-div{
+	margin-top: 90px;
+}
+p{
+	padding: 10px;
+}
+.nb{
+	text-decoration: underline;
+}
+.hc{
+	font-style: italic;
+	color: white;
+}
+.all-divs{
+	border-radius: 10px;
+	background-color: grey;
+	width: 80%;
+}
+.inside-div{
+	padding: 20px;
+}
+.wrap{
+	white-space: nowrap;
+}
+.second-div, .third-div, .fourth-div{
+	margin-top: 30px;
+}
+.small-text{
+	color: lightgoldenrodyellow;
+	font-size: 15px;
+}
+a{
+	color: lightpink;
+	text-decoration: underline;
+
+}
+
+.stop{
+	font-style: normal;
+}
